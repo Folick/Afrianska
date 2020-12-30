@@ -1,1 +1,8 @@
-# This repository is made for portfolio :)
+# Afrianska
+
+[**Afrianska**](https://folick.github.io/Afrianska/) |
+[**Healthy Switcher**](https://folick.github.io/Healthy-Switcher/) |
+[**Trafalgar**](https://folick.github.io/Trafalgar/) |
+[**Apollo**](https://folick.github.io/Apollo/) |
+[**Oenrique**](https://folick.github.io/Oenrique/) |
+[**Oxygen**](https://folick.github.io/Oxygen/) |
