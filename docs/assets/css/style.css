@@ -1182,6 +1182,10 @@ ul,ol {
     margin-bottom: 3.2rem
 }
 
+.article.article--hot .article__title:hover {
+    text-decoration: underline
+}
+
 .article__text {
     max-width: 380px
 }
@@ -1192,6 +1196,10 @@ ul,ol {
     letter-spacing: 0.04em;
     color: #1f3f68;
     margin-bottom: 2rem
+}
+
+.article__title:hover {
+    text-decoration: underline
 }
 
 .article__descr {
@@ -1275,6 +1283,7 @@ ul,ol {
 }
 
 .posts .article__text {
+    display: inline-block;
     max-width: 540px;
     margin-left: 2rem
 }
@@ -1284,6 +1293,10 @@ ul,ol {
     line-height: 38px;
     letter-spacing: 0.04em;
     color: #1f3f68
+}
+
+.posts .article__title:hover {
+    text-decoration: underline
 }
 
 .posts .article__descr {
